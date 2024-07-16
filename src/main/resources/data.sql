@@ -1,0 +1,12 @@
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'John Doe', '25050927021', TO_DATE('1980-01-01', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Jane Smith', '87471630035', TO_DATE('1985-02-02', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Alice Johnson', '02818055040', TO_DATE('1990-03-03', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Bob Brown', '80108163024', TO_DATE('1995-04-04', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Charlie Davis', '34692377003', TO_DATE('2000-05-05', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Diana Evans', '27207977077', TO_DATE('1975-06-06', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Edward Garcia', '39684398050', TO_DATE('1982-07-07', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Fiona Harris', '84853685090', TO_DATE('1988-08-08', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'George Wilson', '20335811019', TO_DATE('1993-09-09', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Hannah Clark', '01912811073', TO_DATE('1998-10-10', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Ian Miller', '86560555003', TO_DATE('2001-11-11', 'YYYY-MM-DD'));
+INSERT INTO paciente (codigo, nome, cpf, data_nascimento) VALUES (paciente_seq.NEXTVAL, 'Jack Lewis', '92916824030', TO_DATE('2005-12-12', 'YYYY-MM-DD'));
